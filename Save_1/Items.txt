@@ -1,0 +1,15 @@
+Healing Potion|Food|10|0|0|0|0|1|1|1|1|1|0.8|Heal yourself.
+Mana Potion|Food|0|10|0|0|0|1|1|1|1|1|0.8|Refill your mana.
+Magic potin|Food|15|15|0|0|0|1|1|1|1|1|0.5|So magical!
+Meat|Food|20|0|1|0|0|1|1|1|1|1|0.3|Make you stronger
+Herb|Food|0|12|0|1|1|1|1|1|1|1|0.3|It's good for you.
+Ruby|Gear|10|0|0|0|0|1.5|1|1|1|1|0.3|Make you stronger.
+Sapphire|Gear|0|10|0|0|5|1|1|1|1|1|0.3|Make you wiser.
+Emerald|Gear|0|0|0|0|10|1|1|1|1|1|0.3|Makes you faster.
+Wooden Armor|Gear|20|0|0|0|0|1.1|1|1|1|1|0.3|Defence your self.
+Metal Armor|Gear|20|0|0|0|0|2|1|1|0.8|1|0.1|Makes you stronger, but slows you down.
+Wooden Sword|Gear|0|0|15|0|0|1|1|1|1|1|0.3|Armer yourself.
+Metal Sword|Gear|0|0|20|0|0|1|1|2|1|1|0.1|Makes you very strong.
+Wand|Gear|0|0|0|0|15|1|1|1|1|1|0.3|Makes you wiser.
+Staff|Gear|0|5|1|0|20|1|1.2|1|1|2|0.1|Makes your a wise man.
+Wind Cloak|Gear|0|0|0|20|0|1|1|1.5|2|1|0.1|Wear this, and you are able to fly.

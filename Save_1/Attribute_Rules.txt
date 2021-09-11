@@ -1,0 +1,34 @@
+Fire Type|1.5|Wind Type
+Fire Type|0.5|Water Type
+Fire Type|0.3|Rock Type
+Fire Type|1.1|Mage
+Fire Type|1.1|Berserker
+Fire Type|1.1|Archer
+Fire Type|1.1|Human
+Fire Type|1.1|Elf
+Fire Type|1.1|Dwarf
+Fire Type|1.1|Orc
+Fire Type|1.1|Demigod
+Water Type|2|Fire Type
+Water Type|1.5|Rock Type
+Wind Type|1.5|Fire Type
+Wind Type|0.5|Rock Type
+Mage|0.9|Berserker
+Mage|1.1|Archer
+Berserker|1.1|Archer
+Berserker|1.1|Mage
+Human|1.1|Elf
+Human|1.1|Dwarf
+Human|1.1|Demigod
+Human|1.1|Orc
+Elf|0.8|Orc
+Elf|1.1|Dwarf
+Dwarf|1.5|Orc
+Dwarf|0.5|Elf
+Orc|1.1|Elf
+Orc|0.3|Demigod
+Orc|0.8|Dwarf
+Demigod|1.1|Human
+Demigod|1.1|Elf
+Demigod|1.1|Dwarf
+Demigod|2|Orc

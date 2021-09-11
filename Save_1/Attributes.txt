@@ -1,0 +1,12 @@
+Fire Type
+Water Type
+Wind Type
+Rock Type
+Mage
+Berserker
+Archer
+Human
+Elf
+Dwarf
+Orc
+Demigod

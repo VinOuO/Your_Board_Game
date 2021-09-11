@@ -1,0 +1,9 @@
+Forest
+Grass Land
+Desert
+Swamp
+Hill
+Volcano
+Ice Field
+Beach
+Riverine

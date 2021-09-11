@@ -1,0 +1,12 @@
+Fire Ball|0|10|1|1|1|1|1.5|Cast a ball of fire to hit your enemy|A ball of fire hits Z, and Z gets burn baddly.|Sttop|Fire Type|Sttop|Target|Hp|-10|Sttop1|Sttop
+Fire ring|0|15|1|1|1|1|1.5|Use a ring of fire to burn your enemy especially wind type enemy.|Raging fire rises around Z and Z can barely defence himself.|Raging fire rises around B and B can barely defence himself.|Sttop|Fire Type|Sttop|Target|Hp|-15|Wind Type|1.5|Sttop1|Sttop
+Hell Fire|-5|20|1|1|1|0|2|Fire frme the devil himself.|Green fire rises from the crack of the hell, and devouring Z|Sttop|Fire Type|Sttop|Target|Hp|-30|Wind Type|1.5|Sttop1|Sttop
+Water Ball|0|5|1|1|1|1|1.5|Wet your enemy.|A water hits Z, and Z is all wet.|Sttop|Water Type|Sttop|Target|Hp|-8|Sttop1|Sttop
+HoneyDew|0|0|1|1.5|1|1|1.5|Healing.|Z feels better.|Sttop|Water Type|Sttop|Target|Hp|10|Wind Type|1.5|Sttop1|Target|Mp|10|Sttop1|Sttop
+Blood Curse|1|20|1.5|1|1|1|2|Trade of blood.|Blood brusts out from Z's body, and fills into Y's mouth.|Sttop|Water Type|Sttop|Target|Hp|-10|Sttop1|Self|Hp|10|Sttop1|Sttop
+Wind Blade|0|5|1|1|1|1|1.5|Cut your enemy.|A sharp breeze cut Z's cheek.|Sttop|Wind Type|Sttop|Target|Hp|-8|Sttop1|Sttop
+Wind Knife|0|10|1|1|1|1|1.5|Cut your enemy badly.|A sharp Wind cut Z's cheek badly.|Sttop|Wind Type|Sttop|Target|Hp|-10|Sttop1|Sttop
+Tornado|0|20|1|1|1|1|2|Tornado.|A tornado suck Z form the round to the Sky.|Sttop|Wind Type|Sttop|Target|Hp|-18|Sttop1|Sttop
+Trow Rock|0|0|1|1|1.5|1|1|Throw a rock to your enemy.|Y trow a rock and hit Z.|Sttop|Rock Type|Sttop|Target|Hp|-5|Sttop1|Self|Hp|-8|Sttop1|Sttop
+Rock Punch|0|0|1|1|2|1|1|Punch hardly.|Y punch Z hardly, and Z is knock out.|Sttop|Rock Type|Sttop|Target|Hp|-5|Sttop1|Self|Hp|-13|Sttop1|Sttop
+Earthquake|0|20|1|1|1|1|2|The rag of Gaia.|Eeath shakes and a crake opens then Z fall into the crake.|Sttop|Rock Type|Sttop|Target|Hp|-25|Sttop1|Sttop

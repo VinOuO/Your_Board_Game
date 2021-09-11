@@ -1,0 +1,45 @@
+0|192.638|-45.55569|0|Forest|1|7|28|39|Sttop|29|34|Sttop
+1|185.1068|-18.65847|0|Forest|15|Sttop|0|8|2|Sttop
+2|181.418|-9.436564|0|Forest|8|1|Sttop|15|16|Sttop
+3|273.7907|53.88716|0|Forest|9|11|26|14|5|Sttop|12|13|5|Sttop
+4|294.3057|81.52558|0|Forest|14|33|Sttop|44|43|Sttop
+5|269.5603|76.29984|0|Forest|43|14|3|Sttop|31|3|Sttop
+6|311.6736|73.99053|0|Forest|27|33|Sttop|44|Sttop
+7|222.6823|-51.00376|0|Forest|28|Sttop|29|0|Sttop
+8|165.5065|-13.65505|0|Forest|18|16|1|Sttop|39|2|Sttop
+9|252.9608|66.11071|0|Forest|23|31|26|21|Sttop|3|21|Sttop
+10|211.3086|13.23847|0|Grass Land|30|29|Sttop|15|Sttop
+11|266.3326|35.21734|0|Grass Land|42|Sttop|26|3|Sttop
+12|281.5487|40.90417|0|Grass Land|3|Sttop|19|41|13|Sttop
+13|291.078|45.82252|0|Grass Land|41|12|3|Sttop|14|44|Sttop
+14|288.6189|71.79755|0|Grass Land|13|43|Sttop|3|4|5|Sttop
+15|197.7831|-3.66835|0|Grass Land|10|16|2|29|Sttop|20|1|22|Sttop
+16|180.5689|2.633282|0|Grass Land|17|2|Sttop|8|15|Sttop
+17|169.81|14.00696|0|Grass Land|20|Sttop|38|16|Sttop
+18|156.2846|7.397934|0|Grass Land|38|Sttop|8|Sttop
+19|281.8561|20.3086|0|Grass Land|41|12|Sttop|37|Sttop
+20|193.787|32.91186|0|Desert|15|38|24|Sttop|42|17|22|Sttop
+21|226.0636|46.89841|0|Desert|22|9|25|Sttop|23|25|9|Sttop
+22|213.6141|48.58909|0|Desert|15|20|Sttop|21|24|23|Sttop
+23|217.9176|65.03482|0|Desert|21|22|32|Sttop|32|24|9|Sttop
+24|159.3586|36.44692|0|Desert|38|22|23|Sttop|20|Sttop
+25|245.5833|40.59678|0|Desert|42|21|Sttop|26|21|Sttop
+26|255.1126|49.81868|0|Desert|25|11|Sttop|9|3|Sttop
+27|311.5199|51.66306|0|Swamp|40|44|Sttop|41|6|Sttop
+28|216.8417|-58.63702|0|Swamp|34|Sttop|7|0|Sttop
+29|216.0732|-25.26147|0|Hill|7|0|Sttop|10|15|Sttop
+30|254.4978|17.31298|0|Hill|37|42|Sttop|10|Sttop
+31|269.5603|91.54217|0|Hill|35|36|5|Sttop|33|32|9|Sttop
+32|234.8244|101.3789|0|Hill|23|31|36|Sttop|23|36|Sttop
+33|308.907|88.7756|0|Hill|31|44|Sttop|40|35|6|4|Sttop
+34|189.0223|-61.30355|0|Volcano|39|0|Sttop|28|Sttop
+35|263.7197|135.8003|0|Ice Field|36|33|Sttop|36|31|43|Sttop
+36|252.9608|124.2729|0|Ice Field|35|32|Sttop|31|32|35|Sttop
+37|298.6093|6.267918|0|Volcano|19|Sttop|30|Sttop
+38|136.3038|26.09501|0|Beach|17|Sttop|24|18|20|Sttop
+39|168.5804|-48.75529|0|Beach|8|Sttop|34|0|Sttop
+40|318.4363|88.24608|0|Beach|33|Sttop|27|Sttop
+41|295.2279|36.14233|0|Beach|27|12|Sttop|19|13|Sttop
+42|251.5776|31.89128|0|Riverine|20|Sttop|30|25|11|Sttop
+43|284.0079|81.22845|0|Riverine|35|4|Sttop|5|14|Sttop
+44|302.4517|74.14713|0|Riverine|4|6|13|Sttop|27|33|Sttop
